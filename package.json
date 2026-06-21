@@ -2,7 +2,7 @@
   "name": "@l.x/provider",
   "version": "1.0.0",
   "description": "Jurisdiction-neutral regulated-provider SDK for Lux Exchange forks.",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
     "url": "https://github.com/luxexchange/provider.git"
